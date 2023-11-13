@@ -1,0 +1,25 @@
+header a {background-color: #2c1d27;}
+header {background-color: #782224;height: 5cm;}
+header {text-align: center;}
+main{background-color:white}
+main h2 {background-color: #dbc2a4;}
+footer{background-color:#782224;height: 3cm;}
+footer{text-align:center;}
+aside{background-color: #782224;}
+header h1{color: white;}
+header{color: white;}
+header a{color: white;}
+aside h2{background-color: #dbc2a4;width: 10,5cm;}
+aside p{color: white;text-indent: 40px;}
+aside li{color: white;}
+html{
+    border-left: 150px;
+    border-right: 150px;
+    border-style: solid;
+    border-color:white
+}
+aside {display:inline-grid;left: start;}
+aside{grid-template-columns;height: 27cm;}
+main{display:inline-grid;width: 13cm; }
+
+
